@@ -1,0 +1,36 @@
+font:
+    primary     Nunito
+    secondary   Nunito
+
+logo colours:
+    #CBDEFF     periwinkle
+    #8A77AE     amethist
+
+color pallete:
+    #FCF5C7     lemon chiffon
+    #ECDCB0     dutch white
+    #CBDEFF     periwinkle
+    #8A77AE     amethist
+    #2F243A     dark purple
+
+Lemon Chiffon	#FCF5C7	    Backgrounds or subtle section dividers. It keeps the page light and welcoming.
+
+Dutch White	    #ECDCB0	    Alternate background sections, cards, or testimonials. Warm and approachable.
+
+Periwinkle	    #CBDEFF	    Main accent / call-to-action color. Soft but stands out for buttons or highlights.
+
+Amethyst	    #8A77AE	    Headers, highlights, or CTA buttons (hover state). Balances professionalism with gentleness.
+
+Dark Purple 	#2F243A	    Text, footer background, or strong accents. Provides great contrast for readability.
+
+
+https://huemint.com/website-3/#palette=fcf9f7-cbdeff-8a77ae-24486a-f61965-c58db7
+
+| SOP Section      | Best Placement                                      |
+| ---------------- | --------------------------------------------------- |
+| 1, 2, 4, 5, 6, 9 | **About Us**                                        |
+| 3, 10, 11, 12    | **What We Offer**                                   |
+| 7, 8             | **New Admissions Page** *(optional)*                |
+| 13–18            | **Policies Page (Accordion Format)**                |
+| 19               | **References** – Skip or link to a downloadable doc |
+| Contact Info     | Already covered                                     |
