@@ -47,8 +47,8 @@ const CONTACT_METHODS = [
     type: 'Email',
     icon: 'mdi:email-outline',
     details: [
-      { label: 'info@guardianpathways.com', href: 'mailto:info@guardianpathways.com' },
-      { label: 'admin@guardianpathways.com', href: 'mailto:admin@guardianpathways.com' },
+      { label: 'info@guardianpathways.co.uk', href: 'mailto:info@guardianpathways.co.uk' },
+      { label: 'admin@guardianpathways.co.uk', href: 'mailto:admin@guardianpathways.co.uk' },
     ],
   },
   {
