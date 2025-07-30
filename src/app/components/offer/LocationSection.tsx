@@ -87,7 +87,7 @@ export default function LocationSection() {
           </motion.div>
 
           {/* Features List */}
-          <motion.div variants={itemVariants} className="flex-1 w-full pt-5 px-40">
+          <motion.div variants={itemVariants} className="flex-1 w-full pt-5 px-4 sm:px-40">
             <div className="grid md:grid-cols-2 sm:grid-cols-1 gap-x-8 gap-y-4">
               {features.map((feature) => (
                 <div key={feature.text} className="flex items-center gap-3">
