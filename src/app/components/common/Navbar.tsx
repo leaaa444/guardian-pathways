@@ -10,7 +10,7 @@ import { links as importedLinks } from './links';
 const BRAND_NAME = 'Guardian Pathways';
 
 const LOGO = {
-  src: '/logo.png',
+  src: '/images/logo.png',
   alt: `${BRAND_NAME} Logo`,
   width: 40,
   height: 40,

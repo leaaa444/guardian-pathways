@@ -12,6 +12,7 @@
     "@iconify/react": "^6.0.0",
     "framer-motion": "^12.23.7",
     "next": "15.4.3",
+    "pnpm": "^10.13.1",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "swiper": "^11.2.10"
