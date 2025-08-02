@@ -11,7 +11,6 @@ const NAV_SECTION_TITLE = 'Navigate';
 const EMAIL_SECTION_TITLE = 'Email';
 const EMAIL_ADDRESSES = [
   { label: 'info@guardianpathways.co.uk', href: 'mailto:info@guardianpathways.co.uk' },
-  { label: 'admin@guardianpathways.co.uk', href: 'mailto:admin@guardianpathways.co.uk' },
 ];
 
 const PHONE_SECTION_TITLE = 'Phone';
